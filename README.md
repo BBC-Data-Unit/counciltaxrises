@@ -2,7 +2,7 @@
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/3492/production/_105885431_regionalctax-nc.png)
 
-In March 2019 we [reported](https://www.bbc.co.uk/news/uk-england-47442652) that council tax bills in England would increase by an average of 4.5% from April, reaching more than £1,800 in some regions. The story was based on research by CIPFA.
+In March 2019 we [reported](https://www.bbc.co.uk/news/uk-england-47442652) that council tax bills in England would increase by an average of 4.5% from April, reaching more than £1,800 in some regions. The story was based on [research by CIPFA](https://www.cipfastats.net/news/newsstory.asp?content=17324).
 
 ## Get the data
 
